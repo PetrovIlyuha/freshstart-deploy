@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a16eae9c.chunk.css",
+    "main.js": "/static/js/main.48922368.chunk.js",
+    "main.js.map": "/static/js/main.48922368.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30d873b4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30d873b4.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.544fbf54.chunk.js": "/static/js/2.544fbf54.chunk.js",
+    "static/js/2.544fbf54.chunk.js.map": "/static/js/2.544fbf54.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d80f02194e135a6e1c31ed1f88f00d76.js": "/precache-manifest.d80f02194e135a6e1c31ed1f88f00d76.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.a16eae9c.chunk.css.map": "/static/css/main.a16eae9c.chunk.css.map",
+    "static/js/2.544fbf54.chunk.js.LICENSE": "/static/js/2.544fbf54.chunk.js.LICENSE",
+    "static/media/NY_illustration.jpg": "/static/media/NY_illustration.bac48f9e.jpg",
+    "static/media/business_london.jpg": "/static/media/business_london.ab065981.jpg",
+    "static/media/house.png": "/static/media/house.e19adf72.png",
+    "static/media/jaffa.jpg": "/static/media/jaffa.0627a577.jpg",
+    "static/media/madrid.jpg": "/static/media/madrid.d8b3bd4e.jpg",
+    "static/media/shanghai.jpg": "/static/media/shanghai.07099ceb.jpg",
+    "static/media/vienna.jpg": "/static/media/vienna.628c8337.jpg",
+    "static/media/weekend.png": "/static/media/weekend.43cbc7c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d873b4.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.544fbf54.chunk.js",
+    "static/css/main.a16eae9c.chunk.css",
+    "static/js/main.48922368.chunk.js"
+  ]
+}
